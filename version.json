@@ -1,9 +1,9 @@
 {
-  "build": 61,
-  "commit": "5d960f7",
-  "native": "f6673afdb1d0",
+  "build": 63,
+  "commit": "b4b41c7",
+  "native": "a1a4b4494980",
   "bundleUrl": "https://github.com/luolima/juspdf-releases/releases/download/latest/bundle.zip",
-  "bundleSha256": "970c2fdfe2ae3489fde543f2579ca06ff5dcf3c9db97e2e7494dc6a5cd66ced5",
+  "bundleSha256": "31a3463e82abec8178f17da53c738b8035259e3ea15176c118cd7dd732d9586b",
   "apkUrl": "https://github.com/luolima/juspdf-releases/releases/download/latest/JusPDF.apk",
-  "apkSha256": "80d7dde327a432f604699b2c36aeae368e3e2e82f4c86a5694bf47accaed0c17"
+  "apkSha256": "654b636c672bc6b97a36b86177381c25220c38577085004af55e23d5d3f20348"
 }
